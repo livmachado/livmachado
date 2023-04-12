@@ -1,10 +1,12 @@
 ## Olá, Dev! Meu nome é Lívia, seja bem-vindo ;)
 
-Sou do Rio de Janeiro-RJ e tenho 25 anos. Sou Desenvolvedora Front-End na Empresa Junior de Consultoria em Microinformática aprimorando meus conhecimentos na Alura, futuramente pretendo estudar tecnologias de linguagens de Back-End para me tornar Full-Stack. 
+📍 Sou do Rio de Janeiro-RJ e tenho 25 anos. 
 
-Sou graduanda em Engenharia Eletrônica e de Computação na Universidade Federal do Rio de Janeiro e a aplicação meu conhecimento como desenvolvedora é essencial para mim. 
+🚀 Sou Desenvolvedora Front-End na Empresa Junior de Consultoria em Microinformática aprimorando meus conhecimentos na Alura, futuramente pretendo estudar tecnologias de linguagens de Back-End para me tornar Full-Stack. 
 
-Estou a procura do meu primeiro estágio na área.
+🎓 Sou graduanda em Engenharia Eletrônica e de Computação na Universidade Federal do Rio de Janeiro e a aplicação meu conhecimento como desenvolvedora é essencial para mim. 
+
+💻 Atualmente, a procura do meu primeiro estágio na área.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="liv-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -13,7 +15,7 @@ Estou a procura do meu primeiro estágio na área.
   <img align="center" alt="liv-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="liv-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="liv-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="liv-pic" height="150" style="border-radius:50px;" src="">
+  <img align="right" alt="liv-pic" height="150" style="border-radius:50px;" src="https://www.flickr.com/photos/198091560@N02/52811142369/in/dateposted-public/">
 </div>
   
   ##
