@@ -6,7 +6,7 @@
 🚀 Sou Desenvolvedora Front-End aprimorando meus conhecimentos na Alura, futuramente pretendo estudar tecnologias de linguagens de Back-End para me tornar Full-Stack. 
 <br>
 <br>
-🎓 Sou graduanda em Engenharia Eletrônica e de Computação na Universidade Federal do Rio de Janeiro e a aplicação meu conhecimento como desenvolvedora é essencial para mim.
+🎓 Sou graduanda em Engenharia Eletrônica e de Computação na Universidade Federal do Rio de Janeiro.
 <br>
 <br>
 <img align="right" alt="liv-pic" height="150"  style="border-radius:50px;" src="https://live.staticflickr.com/65535/52811142369_94ab67f34c_o.jpg">
