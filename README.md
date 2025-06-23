@@ -1,9 +1,9 @@
 ## Olá, Dev! Meu nome é Lívia, seja bem-vinde ;)
 
-📍 Sou do Rio de Janeiro-RJ e tenho 26 anos. 
+📍 Sou do Rio de Janeiro-RJ e tenho 27 anos. 
 <br>
 <br>
-🚀 Sou Desenvolvedora Front-End aprimorando meus conhecimentos na Alura, futuramente pretendo estudar tecnologias de linguagens de Back-End para me tornar Full-Stack. 
+🚀 Sou Desenvolvedora Full-Stack, procurando minha primeira oportunidade na área. 
 <br>
 <br>
 🎓 Sou graduanda em Engenharia Eletrônica e de Computação na Universidade Federal do Rio de Janeiro.
@@ -11,7 +11,6 @@
 <br>
 <img align="right" alt="liv-pic" height="150"  style="border-radius:50px;" src="https://live.staticflickr.com/65535/52811142369_94ab67f34c_o.jpg">
 
-💻 Atualmente, a procura do meu primeiro estágio na área.
 <br>
 <br>
 <br>
