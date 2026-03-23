@@ -1,6 +1,6 @@
 ## Olá, Dev! Meu nome é Lívia, seja bem-vinde ;)
 
-📍 Sou do Rio de Janeiro-RJ e tenho 27 anos. 
+📍 Sou do Rio de Janeiro-RJ e tenho 28 anos. 
 <br>
 <br>
 🚀 Sou Desenvolvedora Full-Stack, procurando minha primeira oportunidade na área. 
@@ -10,12 +10,8 @@
 <br>
 <br>
 
-<br>
-<br>
-<br>
 
 <div style="display: flex; justify-content: space-between; align-items: center;"><br>
-  <a href="https://t.me/Livmchd" target="_blank"><img src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white"      target="_blank"></a>
   <a href = "mailto:liviamcampos98@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/livmachado/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
