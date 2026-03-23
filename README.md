@@ -9,7 +9,6 @@
 🎓 Sou graduanda em Engenharia Eletrônica e de Computação na Universidade Federal do Rio de Janeiro.
 <br>
 <br>
-<img align="right" alt="liv-pic" height="150"  style="border-radius:50px;" src="https://live.staticflickr.com/65535/52811142369_94ab67f34c_o.jpg">
 
 <br>
 <br>
